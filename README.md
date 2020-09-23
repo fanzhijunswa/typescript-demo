@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ts-01
 
 ## Project setup
@@ -32,3 +33,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# typescript-demo
+>>>>>>> 243e7205e174a93ff16d8dc5d5b7b1983b0479e8
