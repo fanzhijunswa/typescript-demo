@@ -64,7 +64,7 @@ export default class Son extends Vue {
     console.log(newV);
   }
   @Watch("userInfo", { immediate: true, deep: true })
-  private doUserInfo(newV: any): void {
+  private doUserInfo(newV: {}): void {
     console.log(newV);
   }
 
