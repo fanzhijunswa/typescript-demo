@@ -1,0 +1,2 @@
+export const EDIT_HOME_NAME = 'EDIT_HOME_NAME'
+export const EDIT_HOME_SEX = 'EDIT_HOME_SEX'
