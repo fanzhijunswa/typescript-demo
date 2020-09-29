@@ -126,3 +126,4 @@ const people:Schema<string> = {
   channelList:[],
   commentList:[]
 }
+

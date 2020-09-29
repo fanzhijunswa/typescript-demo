@@ -18,15 +18,7 @@ module.exports = {
     "no-debugger": process.env.NODE_ENV === "production" ? "warn" : "off",
     "@typescript-eslint/no-inferrable-types": 'off',
     "no-extra-boolean-cast": 'off',
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "prettier/prettier": 'off'
-=======
     'prettier/prettier': 'off'
->>>>>>> Stashed changes
-=======
-    'prettier/prettier': 'off'
->>>>>>> Stashed changes
   },
   overrides: [
     {
